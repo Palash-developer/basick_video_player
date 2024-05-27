@@ -1,7 +1,7 @@
 name: basick_video_player
-description: "A new Flutter package project."
-version: 0.0.1
-homepage: https://github.com/
+description: "A Flutter widget that allows you to play and pause the video similar to YT shorts."
+version: 0.0.4
+homepage: https://github.com/Palash-developer/basick_video_player.git
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
